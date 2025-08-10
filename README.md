@@ -1,12 +1,13 @@
 # Karri Tirumala Venkatesh 👋
-
 > Computer Science Student | Problem Solver | Innovation Enthusiast
 
 Passionate about building solutions that make a difference. Currently pursuing B.Tech in CSE at IIIT Nagpur.
 
 ## 📬 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thektv3256@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thektv/)
+
+Email: thektv3256@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/thektv/
 
 ## 🎓 Education
 - **B.Tech Computer Science & Engineering** - IIIT Nagpur (2027) - CGPA: 9.80 ⭐
