@@ -1,4 +1,5 @@
-<p align="center"><img src="banner.jpg" alt="KTV banner" /></p>
+<img width="1584" height="396" alt="BGG" src="https://github.com/user-attachments/assets/2d5cdd0e-9033-499b-a841-692b6754011a" />
+
 
 # Karri Tirumala Venkatesh 👋
 
