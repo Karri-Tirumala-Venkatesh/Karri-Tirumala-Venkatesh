@@ -25,8 +25,6 @@ LinkedIn: https://www.linkedin.com/in/thektv/
 
 ## 🛠️ Languages & Tools
 
-💻 C, C++, Python | 🌐 HTML, CSS, JavaScript, PHP | 🚀 Django, MySQL | ⚙️ Linux, Git, GitHub, Postman
+💻 C, C++, Python | 🌐 HTML, CSS, JavaScript, PHP | 🚀 Django, MySQL, FastAPI | ⚙️ Linux, Git, GitHub, Postman
 
 ---
-
-*"Code is poetry written in logic"* ✨
