@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/thektv/
 
 ## 🎓 Education
 
-- **B.Tech Computer Science & Engineering** - IIIT Nagpur (2027) - CGPA: 9.80 ⭐
+- **B.Tech Computer Science & Engineering** - IIIT Nagpur (2027) - CGPA: 9.84 ⭐
 
 ## 🏆 Achievements
 
